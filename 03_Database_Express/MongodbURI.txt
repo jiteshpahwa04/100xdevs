@@ -1,0 +1,1 @@
+mongodb+srv://jiteshofficial2004:qbzNF6bhSR9qbG84@cluster0.mxxlspl.mongodb.net/

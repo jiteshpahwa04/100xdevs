@@ -1,0 +1,1 @@
+ssh -i jitesh-password.pem ubuntu@3.94.64.250
